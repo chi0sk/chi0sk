@@ -6,7 +6,7 @@
 ### <div align="center">I'm chi0sk, a Roblox developer that makes exploits for fun.</div>  
   
 
-- 🔭 I’m currently working on [Chi0sk's UI Library]([https://github.com/rishavanand/github-profilinator](https://github.com/chi0sk/Chi0sk-s-UI-Library))  
+- 🔭 I’m currently working on [Chi0sk's UI Library](https://github.com/chi0sk/Chi0sk-s-UI-Library)  
   
 
 - 🌱 I’m currently learning C++ and Python  
