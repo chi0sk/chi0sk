@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
   <h1>Hey, I’m <strong>Sam</strong> 👋</h1>
-  <h3>15 y/o Roblox Developer | Lua Programmer | UK 🇬🇧</h3>
+  <h3>16 y/o Roblox Developer | Lua Programmer | UK 🇬🇧</h3>
 
   <p>
     <a href="https://www.roblox.com/users/832848277/profile">
