@@ -1,104 +1,95 @@
-@@ -1,102 +1 @@
+```markdown
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm chi0sk, a Roblox developer that makes exploits for fun.</div>  
-  
-- 🔭 I’m currently working on [Nothing] 
-  
+```
+      ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄
+     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌
+     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌   ▐░▐░▌
+     ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌
+     ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▐░▌ ▐░▌
+     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌
+      ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▀   ▐░▌
+               ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+      ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+     ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌
+      ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀
+```
 
-- 🌱 I’m currently learning C++ and Python  
-  
+**sixteen. developer. existence in loops.**
 
-- 📞 You can add me on Discord with the username: **chi0sk#5862**  
-  
+</div>
 
-- ⚡ Fun fact: I rarely ever finish my projects.  
-  
+---
 
-<br/>  
+### ◆ RUNTIME
 
+```lua
+local human = {
+    name = "Sam",
+    age = 16,
+    status = "compiling dreams into reality",
+    location = "somewhere between pixels and polygons",
+    philosophy = "there is a light that never goes out"
+}
+```
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**primary language** → LuaU *(6+ years of syntax and solitude)*
+**secondary languages** → Python, C++, HTML/CSS/JS
+**current obsession** → remaking Counter-Blox on Roblox
+**skill level** → intermediate web, advanced LuaU
 
-**I have no skills, :)**  
+---
 
+### ◆ ACTIVE PROJECTS
 
-</td><td valign="top" width="33%">
+**[COUNTER-BLOX REMAKE](https://create.roblox.com/dashboard/creations/experiences/9377185376/overview)**
+*tactical fps reconstruction // roblox engine*
+recreating the mechanics, the feel, the chaos. one script at a time.
 
+---
 
+### ◆ TRACE ROUTES
 
-</td><td valign="top" width="33%">
+```
+    ┌─────────────────────────────────┐
+    │  @chi0sk          → roblox      │
+    │  @rituals._       → discord     │
+    │  @humaninpu_t     → twitter     │
+    └─────────────────────────────────┘
+```
 
+[**twitter/x**](https://x.com/humaninpu_t) • [**roblox**](https://www.roblox.com/users/profile?username=chi0sk) • **discord:** rituals._
 
+---
 
-</td></tr></table>  
+### ◆ STACK
 
-<br/>  
+```
+██████╗ LuaU        ████████████████████ 6+ years
+██████╗ HTML/CSS/JS █████████████░░░░░░░ intermediate
+██████╗ Python      ████░░░░░░░░░░░░░░░░ basic
+██████╗ C++         ███░░░░░░░░░░░░░░░░░ basic
+```
 
+---
 
-## Connect with me  
+### ◆ CURRENT STATE
+
+```
+> listening to: the smiths, the cure, anything melancholic
+> working on: fps mechanics, raycasting, gun systems
+> learning: better optimization, cleaner architecture
+> thinking about: how code is just poetry with semicolons
+```
+
+---
+
 <div align="center">
-<a href="https://github.com/chi0sk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ASuperCoolFrog" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/chi0sk" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@asupercoolfrog" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+*"I am human and I need to be loved, just like everybody else does."*
+**— The Smiths**
 
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=grey&style=flat-square&label=visitors)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chi0sk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=chi0sk&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/chi0sk" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/chi0sk" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-hey
+</div>
+```
