@@ -1,54 +1,104 @@
+@@ -1,102 +1 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
-  <h1>Hey, I’m <strong>Sam</strong> 👋</h1>
-  <h3>16 y/o Roblox Developer | Lua Programmer | UK 🇬🇧</h3>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-  <p>
-    <a href="https://www.roblox.com/users/832848277/profile">
-      <img src="https://img.shields.io/badge/Roblox-Visit%20My%20Profile-red?style=flat-square&logo=roblox" />
-    </a>
-    <a href="https://discord.com/users/937810364630974465">
-      <img src="https://img.shields.io/badge/Discord-rituals._-7289DA?style=flat-square&logo=discord" />
-    </a>
-  </p>
-</div>
+### <div align="center">I'm chi0sk, a Roblox developer that makes exploits for fun.</div>  
+  
+- 🔭 I’m currently working on [Nothing] 
+  
 
----
+- 🌱 I’m currently learning C++ and Python  
+  
 
-## 🧠 About Me
+- 📞 You can add me on Discord with the username: **chi0sk#5862**  
+  
 
-- 🧱 Programming in **Roblox Lua** for 5+ years  
-- ⚙️ Also have experience with **Python** and **C++**  
-- 🔍 Always building new mechanics, tools, or systems  
-- 🧩 Into game design, scripting, and optimizing code
+- ⚡ Fun fact: I rarely ever finish my projects.  
+  
 
----
+<br/>  
 
-## 🛠️ Tech Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
----
+**I have no skills, :)**  
 
-## 🎮 Featured Project
 
-### 🦐
+</td><td valign="top" width="33%">
 
----
 
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi0sk&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi0sk&layout=compact&theme=dark" />
-</p>
+</td><td valign="top" width="33%">
 
----
 
-> "Code what you love. Build what you wish existed."
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/chi0sk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ASuperCoolFrog" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/chi0sk" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@asupercoolfrog" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chi0sk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chi0sk&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/chi0sk" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/chi0sk" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+hey
