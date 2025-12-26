@@ -4,9 +4,14 @@
 
 </div>
 
-<p align="center">
-  <i>"there is a light that never goes out"</i>
-</p>
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+*"I am human and I need to be loved,*
+*just like everybody else does."*
+
+**— The Smiths**
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <br>
 
