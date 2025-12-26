@@ -1,21 +1,10 @@
-```markdown
 <div align="center">
 
-```
-      ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄
-     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌
-     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌   ▐░▐░▌
-     ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌
-     ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▐░▌ ▐░▌
-     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌
-      ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▀   ▐░▌
-               ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
-      ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌
-     ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌
-      ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀
-```
+# sam
 
 **sixteen. developer. existence in loops.**
+
+*"there is a light that never goes out"*
 
 </div>
 
@@ -92,4 +81,3 @@ recreating the mechanics, the feel, the chaos. one script at a time.
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=grey&style=flat-square&label=visitors)
 
 </div>
-```
