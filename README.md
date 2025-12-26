@@ -93,7 +93,7 @@ return developer
 
 ### now playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=666666&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 *the smiths • the cure • anything melancholic*
 
