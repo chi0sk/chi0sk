@@ -50,7 +50,7 @@ return developer
 
 <br>
 
-## 💀 tech stack
+## 📊 tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=1a1a1a" alt="LuaU"/>
@@ -81,8 +81,8 @@ return developer
 ## 📊 github stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d6d6d6&icon_color=666666&text_color=999999"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=d6d6d6&text_color=999999"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi0sk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d6d6d6&icon_color=666666&text_color=999999"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi0sk&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=d6d6d6&text_color=999999"/>
 </div>
 
 <br>
@@ -93,7 +93,7 @@ return developer
 
 ### now playing
 
-[![spotify](https://novatorem-YOUR_VERCEL_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=666666&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aywamssjt0cn7eroy3p78jjt8&redirect=true)
 
 *the smiths • the cure • anything melancholic*
 
