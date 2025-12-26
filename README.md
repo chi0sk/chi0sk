@@ -76,17 +76,6 @@ return developer
 
 </details>
 
-<br>
-
-## 📊 github stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi0sk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d6d6d6&icon_color=666666&text_color=999999"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi0sk&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=d6d6d6&text_color=999999"/>
-</div>
-
-<br>
-
 ## 🎧 current vibe
 
 <div align="center">
