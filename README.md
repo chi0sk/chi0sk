@@ -4,14 +4,17 @@
 
 </div>
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<div align="center">
 
-*"I am human and I need to be loved,*
-*just like everybody else does."*
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-**— The Smiths**
+<p><em>"I am human and I need to be loved,<br>just like everybody else does."</em></p>
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<p><strong>— The Smiths</strong></p>
+
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+</div>
 
 <br>
 
