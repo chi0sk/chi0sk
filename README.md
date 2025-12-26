@@ -13,27 +13,22 @@
 ## ⚡ about
 
 ```lua
---[[
-  somewhere between reality and render distance
-  building games while the smiths play on repeat
-]]--
-
 local developer = {
     name = "Sam",
     age = 16,
     pronouns = "he/him",
-    location = "between pixels and polygons",
+    location = "England",
     languages = {
         primary = "LuaU (6+ years)",
         secondary = {"Python", "C++", "HTML/CSS/JS"}
     },
-    status = "remaking counter-blox from scratch"
+    status = "bored"
 }
 
 function developer:currently_working_on()
     return {
-        project = "Counter-Blox: Remastered",
-        focus = {"fps mechanics", "raycasting", "gun systems"},
+        project = "Counter Blox : Uodated",
+        focus = {"fps mechanics", "gun systems", "datastores"},
         goal = "perfection in every line"
     }
 end
@@ -47,14 +42,9 @@ return developer
 
 <div align="center">
 
-### **[COUNTER-BLOX: REMASTERED](https://create.roblox.com/dashboard/creations/experiences/9377185376/overview)**
+### **[Counter Blox : Updated]([https://create.roblox.com/dashboard/creations/experiences/9377185376/overview](https://www.roblox.com/games/93332405434153/Counter-Blox-Updated))**
 
-*tactical fps reconstruction • roblox platform*
-
-complete remake from the ground up. gun mechanics, movement physics, map design.
-it's about capturing the feeling - the recoil patterns, the spray control, the precision.
-
-`▰▰▰▰▰▰▰▰▱▱` **in active development**
+`▰▰▱▱▱▱▱▱▱▱` **in active development**
 
 </div>
 
@@ -82,7 +72,7 @@ it's about capturing the feeling - the recoil patterns, the spray control, the p
 *responsive design • modern interfaces • functional aesthetics*
 
 **learning** → Python & C++
-*automation • low-level concepts • expanding horizons*
+*automation • mid-level concepts • expanding horizons*
 
 </details>
 
@@ -99,23 +89,15 @@ it's about capturing the feeling - the recoil patterns, the spray control, the p
 
 ## 🎧 current vibe
 
-```yaml
-listening_to:
-  - the smiths
-  - the cure
-  - anything melancholic
+<div align="center">
 
-working_on:
-  - fps game mechanics
-  - raycasting systems
-  - weapon ballistics
-  - optimizing for 60fps
+### now playing
 
-thinking_about:
-  - cleaner code architecture
-  - better design patterns
-  - how every function is a small poem
-```
+[![spotify](https://novatorem-YOUR_VERCEL_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+*the smiths • the cure • anything melancholic*
+
+</div>
 
 <br>
 
