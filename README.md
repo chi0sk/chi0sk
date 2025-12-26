@@ -135,7 +135,7 @@ return developer
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1a1a1a&style=for-the-badge&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=chi0sk&color=1a1a1a&style=for-the-badge&label=VISITORS"/>
 
 <br>
 
