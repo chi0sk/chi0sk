@@ -4,7 +4,8 @@
 
 </div>
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<p align="center">
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 *"I am human and I need to be loved,*
 *just like everybody else does."*
@@ -12,6 +13,7 @@
 **— The Smiths**
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+</p>
 
 <br>
 
