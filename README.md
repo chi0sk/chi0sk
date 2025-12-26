@@ -6,15 +6,18 @@
 
 <p align="center">
   **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
-
+</p>
 *"I am human and I need to be loved,*
+</p>
+</p>
 *just like everybody else does."*
-
+</p>
+</p>
 **— The Smiths**
-
+</p>
+</p>
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 </p>
-
 <br>
 
 ## ⚡ about
