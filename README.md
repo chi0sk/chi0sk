@@ -36,46 +36,6 @@ end
 return developer
 ```
 
-<br>
-
-## 🎯 main project
-
-<div align="center">
-
-### **[Counter Blox : Updated]([https://create.roblox.com/dashboard/creations/experiences/9377185376/overview](https://www.roblox.com/games/93332405434153/Counter-Blox-Updated))**
-
-`▰▰▱▱▱▱▱▱▱▱` **in active development**
-
-</div>
-
-<br>
-
-## 📊 tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=1a1a1a" alt="LuaU"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a" alt="C++"/>
-</p>
-
-<details>
-<summary><b>skill levels</b></summary>
-<br>
-
-**expert** → LuaU
-*6+ years • roblox engine • game architecture • performance optimization*
-
-**intermediate** → HTML/CSS/JavaScript
-*responsive design • modern interfaces • functional aesthetics*
-
-**learning** → Python & C++
-*automation • mid-level concepts • expanding horizons*
-
-</details>
-
 ## 🎧 current vibe
 
 <div align="center">
@@ -112,6 +72,32 @@ return developer
 <br>
 
 <div align="center">
+
+## 📊 tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=1a1a1a" alt="LuaU"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a" alt="C++"/>
+</p>
+
+<details>
+<summary><b>skill levels</b></summary>
+<br>
+
+**expert** → LuaU
+*6+ years • roblox engine • game architecture • performance optimization*
+
+**intermediate** → HTML/CSS/JavaScript
+*responsive design • modern interfaces • functional aesthetics*
+
+**learning** → Python & C++
+*automation • mid-level concepts • expanding horizons*
+
+</details>
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
