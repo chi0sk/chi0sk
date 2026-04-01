@@ -2,7 +2,7 @@
   <img src="banner.png" alt="sam / @chi0sk banner" width="100%">
 
   <h3>hey, i'm sam (@chi0sk)</h3>
-  <p>16. writing code mostly in luau and c++.</p>
+  <p>16. i write a lot of luau and c++ and spend way too much time building roblox tools.</p>
 </div>
 
 ---
@@ -33,23 +33,19 @@
 
 #### [sift](https://github.com/chi0sk/sift)
 
-a roblox luau bytecode decompiler focused on readable, source-shaped output.
+i'm deep into building a luau bytecode decompiler right now.
 
-the whole point is getting back code that actually looks like something a person wrote: better locals, better helper recovery, cleaner module tables, and less opcode soup.
+the main thing i'm chasing with it is output that actually feels readable. not just code that technically decompiled, but code that looks like someone could have sat down and written it.
 
-right now i'm pushing it against real roblox bytecode dumps and tightening the output until it's as close to the original source as i can get it.
-
-long term i want to expose it through an api once the output quality is good enough to stand on its own.
+so most of the work has been going into better locals, cleaner helper recovery, less weird decompiler junk, and getting roblox bytecode back into something that feels way closer to the original script.
 
 <br>
 
 <details>
-<summary><b>view decompilation example</b></summary>
+<summary><b>view example output</b></summary>
 <div align="left">
 
 <br>
-
-**real sift output from a roblox `toolHandler` module:**
 
 ```lua
 local activeCooldowns = {}
@@ -99,8 +95,6 @@ function toolHandler:getTargets(character, config)
 
 	return targets
 end
-
-return toolHandler
 ```
 
 </div>
