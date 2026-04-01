@@ -32,9 +32,14 @@
 <div align="center">
 
 #### [sift](https://github.com/chi0sk/sift)
-a luau bytecode decompiler that focuses on producing code you can actually read.
 
-it takes compiled luau bytecode and reconstructs it into something close to the original source, instead of dumping low-level instructions or unreadable output.
+a roblox luau bytecode decompiler focused on readable, source-shaped output.
+
+the whole point is getting back code that actually looks like something a person wrote: better locals, better helper recovery, cleaner module tables, and less opcode soup.
+
+right now i'm pushing it against real roblox bytecode dumps and tightening the output until it's as close to the original source as i can get it.
+
+long term i want to expose it through an api once the output quality is good enough to stand on its own.
 
 <br>
 
@@ -44,43 +49,61 @@ it takes compiled luau bytecode and reconstructs it into something close to the 
 
 <br>
 
-**original source:**
+**real sift output from a roblox `toolHandler` module:**
 
 ```lua
-local a = true
-if a then print("yes") else print("no") end
-for i = 1, 10 do print(i) end
-function outer() return function() print("inner") end end
-local x = 10
-function test() print(x) end
-local t = {a = 1, b = 2}
-print(t.a)
-function f(...) print(...) end
-```
-**original source was then compiled and inputted into sift --->**
+local activeCooldowns = {}
+local toolHandler = {}
 
-**sift output:**
-
-```lua
-if true then
-	print("yes")
-else
-	print("no")
-end
-for i = 1, 10 do
-	print(i)
-end
-function outer()
-	return function()
-		print("inner")
+function toolHandler:getConfig(toolName)
+	local configModule = script._configs:FindFirstChild(toolName .. ".lua")
+	if not configModule then
+		return nil
 	end
+	return require(configModule)
 end
-function test()
-	print(x)
+
+function toolHandler:canSwing(player, config)
+	local now = os.clock()
+	activeCooldowns[player] = activeCooldowns[player] or 0
+	if now - activeCooldowns[player] < config.Cooldown then
+		return false
+	end
+	activeCooldowns[player] = now
+	return true
 end
-local t = { a = 1, b = 2 }
-print(t.a)
-function f(...)
-	print(...)
+
+function toolHandler:getTargets(character, config)
+	local root = character:FindFirstChild("HumanoidRootPart")
+	if not root then
+		return {}
+	end
+
+	local params = OverlapParams.new()
+	params.FilterType = Enum.RaycastFilterType.Exclude
+	params.FilterDescendantsInstances = { character }
+
+	local boxCFrame = root.CFrame * config.Hitbox.Offset
+	local parts = workspace:GetPartBoundsInBox(boxCFrame, config.Hitbox.Size, params)
+	local targets = {}
+
+	for _, part in parts do
+		local model = part:FindFirstAncestorOfClass("Model")
+		if model then
+			local hum = model:FindFirstChild("Humanoid")
+			if hum and hum.Health > 0 then
+				targets[hum] = model
+			end
+		end
+	end
+
+	return targets
 end
+
+return toolHandler
 ```
+
+</div>
+</details>
+
+</div>
