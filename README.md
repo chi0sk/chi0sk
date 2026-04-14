@@ -33,69 +33,7 @@
 
 #### [sift](https://github.com/chi0sk/sift)
 
-i'm deep into building a luau bytecode decompiler right now.
-
-the main thing i'm chasing with it is output that actually feels readable. not just code that technically decompiled, but code that looks like someone could have sat down and written it.
-
-so most of the work has been going into better locals, cleaner helper recovery, less weird decompiler junk, and getting roblox bytecode back into something that feels way closer to the original script.
-
-<br>
-
-<details>
-<summary><b>view example output</b></summary>
-<div align="left">
-
-<br>
-
-```lua
-local activeCooldowns = {}
-local toolHandler = {}
-
-function toolHandler:getConfig(toolName)
-	local configModule = script._configs:FindFirstChild(toolName .. ".lua")
-	if not configModule then
-		return nil
-	end
-	return require(configModule)
-end
-
-function toolHandler:canSwing(player, config)
-	local now = os.clock()
-	activeCooldowns[player] = activeCooldowns[player] or 0
-	if now - activeCooldowns[player] < config.Cooldown then
-		return false
-	end
-	activeCooldowns[player] = now
-	return true
-end
-
-function toolHandler:getTargets(character, config)
-	local root = character:FindFirstChild("HumanoidRootPart")
-	if not root then
-		return {}
-	end
-
-	local params = OverlapParams.new()
-	params.FilterType = Enum.RaycastFilterType.Exclude
-	params.FilterDescendantsInstances = { character }
-
-	local boxCFrame = root.CFrame * config.Hitbox.Offset
-	local parts = workspace:GetPartBoundsInBox(boxCFrame, config.Hitbox.Size, params)
-	local targets = {}
-
-	for _, part in parts do
-		local model = part:FindFirstAncestorOfClass("Model")
-		if model then
-			local hum = model:FindFirstChild("Humanoid")
-			if hum and hum.Health > 0 then
-				targets[hum] = model
-			end
-		end
-	end
-
-	return targets
-end
-```
+roblox luau bytecode decompiler :3
 
 </div>
 </details>
