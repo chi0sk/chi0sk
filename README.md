@@ -2,7 +2,7 @@
   <img src="banner.png" alt="sam / @chi0sk banner" width="100%">
 
   <h3>hey, i'm sam (@chi0sk)</h3>
-  <p>16. i write a lot of luau and c++ and spend way too much time building roblox tools.</p>
+  <p>16. i write a lot of lua/luau</p>
 </div>
 
 ---
@@ -10,8 +10,8 @@
 <h3 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%23888888" width="20" align="center" alt="contact" /> contact</h3>
 
 <div align="center">
-  <b>discord:</b> <code>rituals._</code><br>
-  <b>roblox:</b> <a href="https://www.roblox.com/users/profile?username=chi0sk">chi0sk</a>
+  <b>discord:</b> <code>@rituals._</code><br>
+  <b>roblox:</b> <a href="[https://www.roblox.com/users/profile?username=chi0sk](https://www.roblox.com/users/832848277/profile)">chi0sk</a>
 </div>
 
 ---
@@ -27,15 +27,6 @@
 
 ---
 
-<h3 align="center"><img src="https://api.iconify.design/lucide:cog.svg?color=%23888888" width="20" align="center" alt="building" /> currently building</h3>
-
-<div align="center">
-
-#### [sift](https://github.com/chi0sk/sift)
-
-roblox luau bytecode decompiler :3
-
-</div>
 </details>
 
 </div>
