@@ -1,13 +1,19 @@
-<div align="center">
-
-  **Discord & Roblox:** chi0sk
-  
-  ![LuaU](https://img.shields.io/badge/LuaU-00ADD8?style=for-the-badge&logo=lua&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00ADD8?style=for-the-badge&logo=roblox&logoColor=white)
-  
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=aywamssjt0cn7eroy3p78jjt8&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=aywamssjt0cn7eroy3p78jjt8&cover_image=true&theme=default&show_offline=false&background_color=000001&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify playing">
+<p align="center">
+  <a href="https://guns.lol/humaninput">
+    <img src="./chi0skbg.png" alt="humaninput" />
   </a>
-  
-</div>
+</p>
+
+<p align="center">
+  <a href="https://guns.lol/humaninput" title="guns.lol"><kbd><img src="https://www.google.com/s2/favicons?domain=guns.lol&sz=64" width="36" height="36" alt="guns.lol" /></kbd></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chi0sk/loom" title="loom"><kbd><img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="loom" /></kbd></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/chi0sk/sift" title="sift"><kbd><img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="sift" /></kbd></a>
+</p>
+
+<p align="center">
+  <sub>
+    discord: chi0sk / humaninput&nbsp;&nbsp;&nbsp; roblox: chi0sk
+  </sub>
+</p>
